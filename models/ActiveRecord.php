@@ -13,10 +13,10 @@ class ActiveRecord{
 
      //errores
      protected static $erorres =[];
-      //public $id;
+      public $id;
       //public $titulo;
       //public $precio;
-      //public $imagen;
+      public $imagen;
       //public $descripcion;
       //public $habitaciones;
       //public $wc;
